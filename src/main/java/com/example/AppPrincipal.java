@@ -8,7 +8,7 @@ public class AppPrincipal {
         appAprendendo.notaAluno = 9;
         appAprendendo.aprovacao = false;
 
-        System.out.println("O nome da aluna é:"+ appAprendendo.nomeAluno );
+        appAprendendo.estudante();
 
 
     }
